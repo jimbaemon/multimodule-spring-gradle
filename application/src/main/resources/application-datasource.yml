@@ -1,0 +1,8 @@
+datasource:
+  driver-class-name: org.h2.Driver
+jpa:
+  properties:
+    hibernate:
+      ddl-auto: validate
+      dialect: org.hibernate.dialect.H2Dialect
+  show-sql: true
