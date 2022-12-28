@@ -1,6 +1,6 @@
 package com.jimbae.multimodule.type;
 
-public enum Sample {
+public enum SampleType {
     GOOD,
     BAD
 }
