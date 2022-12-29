@@ -13,3 +13,5 @@
 독립 모듈 계층은 편하게 구성해서 사용하면 될것 같아서 예제에서 제외하였고, in system available 에 대한 이해도가 낮아서 예제에서 제외하였습니다.
 
 최상단 build.gradle 에서 모든 의존을 관리하도록 하였으나 계측별 세부 의존성 관리를 위해서는 모듈별로 따로 구성하는게 좋을듯 합니다.
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjimbaemon%2Fmultimodule-spring-gradle&count_bg=%235B59E7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
